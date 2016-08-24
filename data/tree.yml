@@ -102,6 +102,7 @@ forge:
 formation.html.slim: "/formation.html.slim"
 git.html.slim: "/git.html.slim"
 gitclub.html.slim: "/gitclub.html.slim"
+gitflow.html.slim: "/gitflow.html.slim"
 glossary.html.slim: "/glossary.html.slim"
 gnu.html.slim: "/gnu.html.slim"
 index.html.slim: "/index.html.slim"
