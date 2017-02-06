@@ -1,0 +1,50 @@
+---
+date: 2016-12-11
+slug: pull-request-101
+title: "Personne n’avait jamais écrit un article sur les pull resquest comme cela. Personne."
+description: "Utiliser la technique du clickbait pour forcer vos collègues à lire vos pull request"
+image:
+page_title: Améliorons ensensemble la qualité de votre code
+page_emphasis: Ce qui se concoit bien s’énonce clairement
+---
+
+L’invalidation du cache et le nommage sont les 2 choses les plus compliquées en informatique. Je travaille avec différentes personnes dans l'industrie du web. Il m'arrive d'être plus efficace en travaillant sur des projets open-source avec des personnes que je n'ai jamais rencontré de ma vie. Pas le temps de niaiser sur les problèmes habithuels des entreprises comme la bataille d'ego ou la rétention d'informations. _Only the skill matters_.
+
+Pour que mon travail soit rapidement intégré au projet je dois faire l'effort d'écrire des messages de commits et une belle desciption pour améliorer la communication.
+
+## Réussir votre première pull-request
+
+Your first PR
+
+http://www.charlotteis.co.uk/making-your-first-pull-request/
+https://github.com/hoodiehq/hood.ie/issues/223
+
+https://github.com/yourfirstpr/yourfirstpr.github.io/issues/2
+
+## Recevoir du feedback rapidement
+
+J’ai recement lu le livre [CommitStrip - Rise of the Coders](https://www.kickstarter.com/projects/commitstrip/commitstrip-rise-of-the-coders-a-book-about-the-fu?ref=card); Cette bande dessinnée raconte de façon humoristique le quotidien des “codeurs”. Ne [cliquez pas sur ce lien](http://www.commitstrip.com/fr/?) si vous ne connaissez pas encore, vous allez passer la prochaine heure à lire tous les strips…
+
+Dans la version kickstarter le CTO cherche un moyen de faire lire toutes ses pull-request. IL y arrive en écrivant des messages pour hacker le cerveau avec des meesages dignes des plus grands articles clickbait ou putaclic du web.
+
+### Step 1. Social Engineering
+
+<script src="https://gist.github.com/flexbox/a9085ab37532cea67b2d79b9a70fc5fc.js"></script>
+
+Essayez lors de votre prochaine `feature`, je certain que cela fonctionne
+
+### Step 2. Identifier clairement le problème
+
+Illustrer le problème résolu avec un exemple sur codepen
+
+Mettre un message de commit explicite
+
+### Step 3 (Bonus). Automatisation
+
+Comme certains le savent je suis un grand fan d'automatisation. Je met en place des [systèmes pour gagner du temps avec des robots](https://medium.com/@flexbox/project-management-for-hackers-3bdcaf03dece#.ca3jk9pb3).
+
+Comment accélérer la collaboration et automatiser certaines [tâches avec Slack](https://slack.com/apps/A0F7YS2SX-github).
+
+http://courses.davidl.fr/presentations/workflow/#/
+
+https://gist.github.com/Charlotteis/8d82da61a3a9bfa92663
