@@ -1,0 +1,19 @@
+---
+date: 2017-03-24
+slug: npm
+title: Migrer facilement de version avec Node.js 
+description: 
+image: 
+page_title: Conserver les programmes installés en global avec Node.js
+page_emphasis: Le CLI c’est bien mais pour la santé mentale les GUI c’est mieux
+---
+
+## Gerer vos différentes versions
+
+
+## ndm
+
+## Installer 
+
+
+      $ npm i -g imageoptim-cli markdown-to-html pageres-cli svgo wifi-password-cli yarn
