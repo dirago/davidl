@@ -11,3 +11,5 @@ script:
   - rake travis:script
 after_success:
   - rake travis:after_success
+notifications:
+  email: false
