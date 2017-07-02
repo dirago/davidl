@@ -5,34 +5,6 @@
   </url>
   <url>
     <loc>https://davidl.fr/about.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://davidl.fr/sitemap.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  <url>
-    <loc>https://davidl.fr/sponsorship.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://davidl.fr/styleguide.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0</priority>
-  </url>
-  <url>
-    <loc>https://davidl.fr/thankyou.html</loc>
-  </url>
-  <url>
-    <loc>https://davidl.fr/workflow/chatbot.html</loc>
-  </url>
-  <url>
-    <loc>https://davidl.fr/workflow/coaching.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://davidl.fr/workflow/growth-hacking.html</loc>
@@ -41,15 +13,7 @@
     <loc>https://davidl.fr/workflow</loc>
   </url>
   <url>
-    <loc>https://davidl.fr/workflow/sos.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://davidl.fr/workflow/work.html</loc>
-  </url>
-  <url>
-    <loc>https://davidl.fr/assets/font/icons-reference.html</loc>
   </url>
   <url>
     <loc>https://davidl.fr/blog/framework-php.html</loc>
@@ -78,8 +42,6 @@
   </url>
   <url>
     <loc>https://davidl.fr/blog/webdesign-adaptatif-5-astuces-indispensables.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidl.fr/blog/windows-repertoire-git.html</loc>
@@ -275,8 +237,6 @@
   </url>
   <url>
     <loc>https://davidl.fr/blog/import-sass.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidl.fr/blog/grille-semantique.html</loc>
@@ -452,8 +412,6 @@
   </url>
   <url>
     <loc>https://davidl.fr/design/webdesign.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidl.fr/dev/git.html</loc>
@@ -468,13 +426,9 @@
   </url>
   <url>
     <loc>https://davidl.fr/dev/sublime.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://davidl.fr/dev/tools.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidl.fr/forge/0-1-evolution.html</loc>
@@ -517,9 +471,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://davidl.fr/glossary.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://davidl.fr/gifts.html</loc>
   </url>
   <url>
     <loc>https://davidl.fr/gnu.html</loc>
@@ -548,17 +500,30 @@
   </url>
   <url>
     <loc>https://davidl.fr/manifesto.html</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://davidl.fr/mentors.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://davidl.fr/pricing.html</loc>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://davidl.fr/sitemap.html</loc>
+  </url>
+  <url>
+    <loc>https://davidl.fr/styleguide.html</loc>
+  </url>
+  <url>
+    <loc>https://davidl.fr/thankyou.html</loc>
+  </url>
+  <url>
+    <loc>https://davidl.fr/workflow/chatbot.html</loc>
+  </url>
+  <url>
+    <loc>https://davidl.fr/workflow/coaching.html</loc>
+    <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 </urlset>

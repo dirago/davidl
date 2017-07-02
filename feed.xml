@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>davidl • design &amp; développement</title>
-  <subtitle>Je crée des sites internet qui fonctionnent à merveille sur n’importe quel appareil. Designer spécialisé HTML et CSS basé à Lille</subtitle>
+  <subtitle>Je crée des sites internet et des applications web qui fonctionnent à merveille sur n’importe quel appareil. Designer spécialisé Ruby, HTML, CSS et JavaScript basé à Lille</subtitle>
   <id>https://davidl.fr/blog/</id>
   <link href="https://davidl.fr/blog/"/>
   <link href="https://davidl.fr/blog/feed.xml" rel="self"/>
@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://davidl.fr/blog/london.html"/>
     <id>https://davidl.fr/blog/london.html</id>
     <published>2017-06-01T00:00:00+02:00</published>
-    <updated>2017-06-26T15:07:38+02:00</updated>
+    <updated>2017-07-01T19:07:51+02:00</updated>
     <author>
       <name>davidl • design &amp; développement</name>
     </author>
@@ -247,7 +247,7 @@
     <link rel="alternate" href="https://davidl.fr/blog/jamstack.html"/>
     <id>https://davidl.fr/blog/jamstack.html</id>
     <published>2017-03-13T00:00:00+01:00</published>
-    <updated>2017-05-29T11:48:11+02:00</updated>
+    <updated>2017-07-02T15:38:34+02:00</updated>
     <author>
       <name>davidl • design &amp; développement</name>
     </author>
